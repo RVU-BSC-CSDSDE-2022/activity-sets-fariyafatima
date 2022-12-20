@@ -5,9 +5,12 @@ int add(int a,int b);
 void output(int a,int b, int sum);
 
 int a,b,sum;
+
 int main()
 {
-  input();
+  input ();
+  add (a,b,sum);
+  output()
    
 }
 
@@ -21,11 +24,12 @@ int input()
 
 int add (int a, int b)
 {
+  int sum;
   sum=a+b;
   return sum;
 }
 
 void output(int a, int b,int sum);
 {
-  printf("sum of %d and %dis %d")
+  printf("sum of %d and %d is %d",a,b,sum);
 }

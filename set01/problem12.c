@@ -16,6 +16,7 @@ int main(){
   n = get_n();
   
 }
+
 int get_n(){
   int n;
   printf("Enter size of the array: ");

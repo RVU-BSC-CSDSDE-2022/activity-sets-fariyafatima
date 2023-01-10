@@ -5,6 +5,7 @@ void output(int a, int b ,int c , int largest);
 
 int input()
 {
+  
   int n;
   printf("enter a nuber\n");
   scanf("%d", &n);

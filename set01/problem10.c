@@ -6,6 +6,7 @@ void output(char *string1, char *string2, int result);
 
 int main()
 {
+  
    char string1[100], string2[100];
    int result=0;
    input_two_strings(string1, string2);

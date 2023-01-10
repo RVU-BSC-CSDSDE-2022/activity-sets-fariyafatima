@@ -13,6 +13,7 @@ void output(Complex a, Complex b, Complex sum);
 
 int main()
 {
+  
   Complex a,b, sum;
    a=input_complex();
    b=input_complex();

@@ -10,6 +10,7 @@ int main(){
   sum = add(a, b);
   output(a, b, sum);
 }
+
 int input(){
   int a;
   scanf("%d", &a);
